@@ -1,0 +1,7 @@
+*.class
+*~
+javadoc/
+
+# Package Files #
+*.war
+*.ear
